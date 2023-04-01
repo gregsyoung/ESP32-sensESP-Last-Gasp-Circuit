@@ -81,7 +81,7 @@ A widely and commonly available shottky diode is the 1N5822 (40V 3A) that has a 
 By keeping the "charging" current of the SuperCap to 1A (max) the forward voltage drop across the diode varies between 0.4V (when charging @1A) and 0.32V once the SuperCap is charged and the current falls to ~100mA (avg) from the ESP32 load.
 This enables the buck output to be set to 3.62V (0.32V above 3.3V) which allows the SuperCap to reach a stable 3.3V
 
-![image](http://)
+![image](https://github.com/gregsyoung/ESP32-sensESP-Last-Gasp-Circuit/blob/main/1N5822%20diode.jpg)
 
  ### Charge and DisCharge (voltage) Curves
  Below are measured voltage vs time curves for each of a 5F & 10F SuperCap in the above circuit.
