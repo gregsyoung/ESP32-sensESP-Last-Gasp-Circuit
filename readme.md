@@ -25,7 +25,8 @@ There are 3 main components in the power supply circuit, namely:
 - shottky diode  
 (to prevent current from SuperCap "escaping" back thru buck regulator output when its de-powered)
 
-** insert link to pic 
+![image](https://github.com/gregsyoung/ESP32-sensESP-Last-Gasp-Circuit/blob/main/1N5822%20diode%20pic.jpg)
+
 - SuperCap "Farad Capacitor" (5.5V 10F)
 
 ** insert link to pic
